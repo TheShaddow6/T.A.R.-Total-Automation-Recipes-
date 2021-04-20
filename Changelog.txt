@@ -1,0 +1,12 @@
+0.1.3\
+added sink compatibility for new items
+
+0.1.2\
+fixed MAM research tree description
+fixed MAM research tree beeing available too soon
+
+0.1.1\
+fixed launch error
+
+0.1.0\
+mod created and released

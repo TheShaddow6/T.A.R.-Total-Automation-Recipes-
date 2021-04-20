@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.1.3",
+	"SemVersion": "0.1.3",
+	"FriendlyName": "TotalAutomationRecipes",
+	"Description": "T.A.R. adds new Alternate Recipes allowing you to automate things that you normally couldn't.  Berries? Yes! Biomass? Yes!",
+	"Category": "Modding",
+	"CreatedBy": "Nightstride, The_Shaddow",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+            		"SemVersion": "^3.0.0",
+            		"Enabled": true
+		}
+	]
+}
